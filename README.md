@@ -27,17 +27,17 @@ toward drought conditions after 1997
 ## Figures
 
 ### Total Livestock in Mongolia (1970–2024)
-![Livestock trend](figures/livestock_trend.png)
+![Livestock trend](mongolia-livestock-climate-analysis/livestock_trend.png)
 *National herd size over 54 years, showing post-socialist growth and dzud-driven 
 collapses in 2001 and 2010.*
 
 ### Livestock vs. Annual Temperature (1970–2024)
-![Livestock vs temperature](figures/annual_mean_temp_vs_livestock_correlation.png)
+![Livestock vs temperature](mongolia-livestock-climate-analysis/annual_mean_temp_vs_livestock_correlation.png)
 *Long-run relationship between warming temperatures and total herd size across 
 the study period.*
 
 ### Year-to-Year Changes: Livestock vs. Temperature
-![Year to year changes](figures/temp_vs_livestock.png)
+![Year to year changes](mongolia-livestock-climate-analysis/temp_vs_livestock.png)
 *Annual changes in livestock population plotted against annual temperature changes, 
 highlighting the volatility of dzud shock years.*
 
